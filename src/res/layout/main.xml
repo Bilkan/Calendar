@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:id="@+id/widget"
+ android:layout_width="fill_parent"
+android:layout_height="fill_parent" 
+android:orientation="vertical">
+<LinearLayout 
+android:id="@+id/LinearLayout01" 
+android:layout_width="200px" 
+android:orientation="vertical" 
+android:layout_marginTop="30px" 
+android:layout_marginLeft="30px" 
+android:background="@drawable/calendar" 
+android:layout_height="160px">
+
+<ImageView android:layout_width="fill_parent" 
+android:id="@+id/imhepte" 
+android:layout_height="40px" 
+android:layout_gravity="center" 
+android:layout_marginTop="5px">
+</ImageView>
+<TextView 
+android:id="@+id/txtkun" 
+android:layout_height="wrap_content" 
+android:freezesText="true"
+android:gravity="center_horizontal|center" 
+android:textColor="#ffffff" 
+android:textSize="70px" 
+android:layout_width="120px" 
+android:layout_marginTop="-20px">
+</TextView>
+<TextView 
+android:textColor="#ffffff" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content" 
+android:layout_gravity="right" 
+android:id="@+id/txtyil" 
+android:layout_marginRight="10px" 
+android:layout_marginTop="-5px" android:textSize="23px">
+</TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ImageView android:layout_marginTop="-40px" android:layout_height="40px" android:layout_width="wrap_content" android:layout_gravity="left" android:id="@+id/imay_eng" android:layout_marginLeft="-10px"></ImageView>
+<ImageView android:layout_width="wrap_content" android:layout_gravity="right" android:layout_height="40px" android:layout_marginRight="10px" android:id="@+id/imayy_uy" android:layout_marginTop="-67px"></ImageView>
+</LinearLayout>
+
+</LinearLayout>
