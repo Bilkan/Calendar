@@ -11,6 +11,6 @@ https://github.com/AZIZHUSS/Arabic-Reshaper
 
 Download link: 
 
-Google Play:
+Google Play: https://play.google.com/store/apps/details?id=net.uyghurdev.chisla.re
 
 Bilkan Bazar: http://bazar.bilkan.net/App.aspx?id=172
