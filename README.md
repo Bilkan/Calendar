@@ -9,5 +9,7 @@ Arabic Reshaper:
 https://github.com/AZIZHUSS/Arabic-Reshaper
 
 Download link: 
+
 Google Play:
+
 Bilkan Bazar: http://bazar.bilkan.net/App.aspx?id=172
