@@ -4,6 +4,7 @@ Calendar
 سىستىمىنىڭ چىسلاسىنى ئىكران يۈزىدە كۆرسىتىپ بىرىدىغان پروگراممىچاق. 
 ئىقتىدارى: سىستىمىنىڭ چىسلاسىنى كۆرسىتپ بىرىش، ماس كىلىدىغان ئۇيغۇرچە ئاي ناملىرى، ھەپتە، كۈن ناملىرنى كۆرسىتىپ بىرىش.
 
+This app displays the system calendar on the home screen in Uyghur language.
 
 Arabic Reshaper:
 https://github.com/AZIZHUSS/Arabic-Reshaper
