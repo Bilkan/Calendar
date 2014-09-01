@@ -9,9 +9,9 @@ This app (a widget, actually) displays the system calendar on the home screen in
 
 Screenshots:
 ---------
-![screenshot](screenshot/001.png)
+![screenshot](screenshots/001.png)
 
-![screenshot](screenshot/002.png)
+![screenshot](screenshots/002.png)
 
 Download link:
 ---------
